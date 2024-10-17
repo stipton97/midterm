@@ -1,1 +1,161 @@
-
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 0;
+  }
+  
+  .container {
+    width: 96%;
+    max-width: 1020px;
+    margin: 0 auto;
+  }
+  
+  .small-container {
+    margin: 0 auto;
+    width: 92%;
+    max-width: 768px;
+  }
+  
+  h1#site-title {
+    font-size: 50px;
+    color: #5B1865;
+    font-family: Trebuchet MS;
+    text-align: center;
+    font-weight: 800;
+  }
+  
+  h1#article-title {
+    font-size: 30px;
+    color: #5B1865;
+    font-family: Trebuchet MS;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: #5B1865;
+    font-family: Trebuchet MS;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+  }
+  
+  figure {
+    margin: 0;
+    border: 1px solid black;
+    padding: 12px;
+    padding-bottom: 24px;
+    background: whitesmoke
+  }
+  
+  figure img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 12px;
+  }
+  
+  figure.main-image {
+    background: #e5f1e3;
+    border-color: 1px solid #285742;
+    color: #060606;
+    margin-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 520px;
+    width: 520px;
+  }
+  
+  .clearfix {
+    overflow: auto;
+  }
+  
+  figure.section-image.odd {
+    max-width: 200px;
+    float: right;
+    margin: -1px 20px 32px 62px;
+  }
+  
+  figure.section-image.even {
+    max-width: 200px;
+    float: right;
+    margin: -1px 20px 32px 62px;
+  }
+  
+  p img {
+    float: right;
+    max-width: 60%;
+    margin-left: 20px;
+    margin-bottom: 32px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  
+  nav ul li {
+  
+  
+  }
+  
+  
+  nav ul li a {
+    color: #09814A;
+    text-decoration: none;
+    padding: 12px;
+    display: block;
+    text-transform: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  
+  header nav ul li a:hover {
+    border-bottom: 3px solid #32746D;
+    padding-bottom: 9px;
+  }
+  
+  
+  header nav ul {
+    border-top: 1px dashed #09814A;
+    border-bottom: 1px dashed #09814A;
+  }
+  
+  
+   footer nav {
+  
+  
+   }
+  
+  
+   footer nav ul li a {
+    color:#0b5f1a;
+  
+  
+   }
+  
+  
+   footer nav ul li a:hover {
+    text-decoration: underline;
+   }
+  
+  
+   footer#page-footer {
+    padding: 32px 0;
+    margin-top: 64px;
+    text-align: center;
+    background-color: #DCDCDC;
+    color: #0b5f1a;
+   }
+  
+  
