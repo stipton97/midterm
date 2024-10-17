@@ -69,6 +69,10 @@ body {
     max-width: 520px;
     width: 520px;
   }
+
+  figure.header-image {
+
+  }
   
   .clearfix {
     overflow: auto;
