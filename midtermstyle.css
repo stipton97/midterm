@@ -25,7 +25,7 @@ body {
   
   h1#site-title {
     font-size: 50px;
-    color: #054e89;
+    color: #26817E;
     font-family: Trebuchet MS;
     text-align: center;
     font-weight: 800;
@@ -33,21 +33,21 @@ body {
   
   h1#article-title {
     font-size: 30px;
-    color: #054e89;
+    color: #26817E;
     font-family: Trebuchet MS;
     text-align: center;
   }
   
   h1#footer-title {
     font-size: 30px;
-    color: #054e89;
+    color: #26817E;
     font-family: Trebuchet MS;
     text-align: center;
   } 
 
   h2 {
     font-size: 30px;
-    color: #054e89;
+    color: #26817E;
     font-family: Trebuchet MS;
     margin-top: 25px;
     margin-bottom: 5px;
@@ -80,7 +80,7 @@ body {
     border: 1px solid black;
     padding: 12px;
     padding-bottom: 24px;
-    background: whitesmoke
+    background: #E5EBEA;
   }
   
   figure img {
@@ -146,7 +146,7 @@ body {
   
   
   nav ul li a {
-    color: #705672;
+    color: #8093F1;
     text-decoration: none;
     padding: 12px;
     display: block;
@@ -158,14 +158,14 @@ body {
   
   
   header nav ul li a:hover {
-    border-bottom: 3px solid #705672;
+    border-bottom: 3px solid #8093F1;
     padding-bottom: 9px;
   }
   
   
   header nav ul {
-    border-top: 1px dashed #705672;
-    border-bottom: 1px dashed #705672;
+    border-top: 1px dashed #B388EB;
+    border-bottom: 1px dashed #B388EB;
   }
   
   
@@ -176,7 +176,7 @@ body {
   
   
    footer nav ul li a {
-    color:#705672;
+    color:#B388EB;
   
   
    }
@@ -192,7 +192,7 @@ body {
     margin-top: 64px;
     text-align: center;
     background-color: #DCDCDC;
-    color: #705672;
+    color: #B388EB;
    }
   
   
