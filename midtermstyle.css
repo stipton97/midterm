@@ -112,7 +112,7 @@ body {
   }
   
   figure.section-image.odd {
-    max-width: 100%;
+    max-width: 400px;
     float: right;
     margin: -1px 20px 32px 62px;
   }
