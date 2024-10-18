@@ -14,6 +14,7 @@ body {
     margin: 0 auto;
     width: 92%;
     max-width: 768px;
+    text-align: center;
   }
   
   h1#site-title {
@@ -71,9 +72,9 @@ body {
   }
 
   figure.header-image {
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
   }
   
   .clearfix {
