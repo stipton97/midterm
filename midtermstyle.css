@@ -84,7 +84,6 @@ body {
   }
   
   figure img {
-    max-width: 300px;
     height: auto;
     margin-bottom: 12px;
   }
