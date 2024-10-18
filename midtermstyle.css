@@ -58,6 +58,22 @@ body {
     line-height: 1.25;
     margin-bottom: 1.25em;
   }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
   
   figure {
     margin: 0;
