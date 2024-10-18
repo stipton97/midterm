@@ -164,8 +164,8 @@ body {
   
   
   header nav ul {
-    border-top: 1px dashed #4C3B4D;
-    border-bottom: 1px dashed #4C3B4D;
+    border-top: 1px dashed #705672;
+    border-bottom: 1px dashed #705672;
   }
   
   
@@ -176,7 +176,7 @@ body {
   
   
    footer nav ul li a {
-    color:#4C3B4D;
+    color:#705672;
   
   
    }
@@ -192,7 +192,7 @@ body {
     margin-top: 64px;
     text-align: center;
     background-color: #DCDCDC;
-    color: #4C3B4D;
+    color: #705672;
    }
   
   
