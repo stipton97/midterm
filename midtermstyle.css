@@ -103,7 +103,6 @@ body {
   figure.header-image {
     margin-left: auto;
     margin-right: auto;
-    #6f23d1
   }
   
   .clearfix {
@@ -168,7 +167,12 @@ body {
     border-bottom: 1px thick double #F68E5F;
   }
   
-  
+  figure.footer-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+  }
+
    footer nav {
   
   
