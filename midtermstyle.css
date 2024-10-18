@@ -32,6 +32,13 @@ body {
     text-align: center;
   }
   
+  h1#footer-title {
+    font-size: 30px;
+    color: #5B1865;
+    font-family: Trebuchet MS;
+    text-align: center;
+  } 
+
   h2 {
     font-size: 30px;
     color: #5B1865;
