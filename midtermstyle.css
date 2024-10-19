@@ -1,5 +1,5 @@
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Lexend", sans-serif;
     font-weight: 400;
     margin: 0;
   }
@@ -163,8 +163,8 @@ body {
   
   
   header nav ul {
-    border-top: 1px thick solid #F68E5F;
-    border-bottom: 1px thick solid #F68E5F;
+    border-top: 1px solid #F68E5F;
+    border-bottom: 1px solid #F68E5F;
   }
   
   figure.footer-image {
