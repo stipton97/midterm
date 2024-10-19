@@ -80,13 +80,14 @@ body {
     border: 1px solid black;
     padding: 12px;
     padding-bottom: 24px;
-    background: #E5EBEA;
+    background: #f5f8e4;
   }
   
   figure img {
     max-width: 100%;
     height: auto;
     margin-bottom: 12px;
+    background: #f5f8e4;
   }
   
   figure.main-image {
